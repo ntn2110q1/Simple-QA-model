@@ -14,3 +14,4 @@ accelerate==1.10.1
 chromadb==1.0.20
 pydantic==2.11.7
 sentence-transformers==5.1.0
+wget==3.2
