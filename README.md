@@ -26,3 +26,19 @@ Trong [Google Collab](https://colab.research.google.com/), chúng ta cần thư 
 <p>
 
 Để nhập câu hỏi, vào `Chat.Try it out`
+<p align="left">
+    <br>
+    <a href="[https://github.com/safe](https://github.com/safe](https://github.com/ntn2110q1/Simple-QA-model)">
+        <img src="https://github.com/ntn2110q1/Simple-QA-model/blob/main/FastAPI Interface/Input.png" width="500"/>
+    </a>
+    <br>
+<p>
+
+Câu hỏi và câu trả lời được lưu vào folder `history` dưới định dạng `.JSON`
+<p align="center">
+    <br>
+    <a href="[https://github.com/safe](https://github.com/safe](https://github.com/ntn2110q1/Simple-QA-model)">
+        <img src="https://github.com/ntn2110q1/Simple-QA-model/blob/main/FastAPI Interface/Output.png" width="1000"/>
+    </a>
+    <br>
+<p>
