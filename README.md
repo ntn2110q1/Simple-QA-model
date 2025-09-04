@@ -16,3 +16,13 @@ Here we have some scientific papers about Transformer structure, BERT, LLM model
 <p>
 
 ## Giao diện FastAPI
+Trong [Google Collab](https://colab.research.google.com/), chúng ta cần thư viện `ngrok` để sử dụng được FastAPI.
+<p align="center">
+    <br>
+    <a href="[https://github.com/safe](https://github.com/safe](https://github.com/ntn2110q1/Simple-QA-model)">
+        <img src="https://github.com/ntn2110q1/Simple-QA-model/blob/main/FastAPI Interface/FastAPI.png" width="1000"/>
+    </a>
+    <br>
+<p>
+
+Để nhập câu hỏi, vào `Chat.Try it out`
