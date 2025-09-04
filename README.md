@@ -15,7 +15,7 @@ Here we have some scientific papers about Transformer structure, BERT, LLM model
     <br>
 <p>
 
-## Giao diện FastAPI
+## Interface
 In [Google Collab](https://colab.research.google.com/), we need the `ngrok` library to use `FastAPI`.
 <p align="center">
     <br>
