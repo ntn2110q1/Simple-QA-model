@@ -1,6 +1,7 @@
 # Simple-Q&A-model
 Build a simple question-answering application based on a `Large Language Model (LLM)`. The application uses `LangChain` and the `Retrieval-Augmented Generation (RAG)` technique to retrieve relevant information from documents and generate answers. It also deploys an API using `LangServe` and `FastAPI`.
 
+Google Collab: [links](https://colab.research.google.com/drive/1pP-EAwI1L2li8LIuM0EzBjOJ8h85Lh66?usp=sharing)
 ## Download PDF File data
 run `data_source.download.py`. 
 
