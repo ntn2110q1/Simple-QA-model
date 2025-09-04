@@ -16,7 +16,7 @@ Here we have some scientific papers about Transformer structure, BERT, LLM model
 <p>
 
 ## Giao diện FastAPI
-Trong [Google Collab](https://colab.research.google.com/), chúng ta cần thư viện `ngrok` để sử dụng được FastAPI.
+In [Google Collab](https://colab.research.google.com/), we need the `ngrok` library to use `FastAPI`.
 <p align="center">
     <br>
     <a href="[https://github.com/safe](https://github.com/safe](https://github.com/ntn2110q1/Simple-QA-model)">
@@ -25,7 +25,7 @@ Trong [Google Collab](https://colab.research.google.com/), chúng ta cần thư 
     <br>
 <p>
 
-Để nhập câu hỏi, vào `Chat.Try it out`
+To enter a question, go to `Chat.Try it out`
 <p align="left">
     <br>
     <a href="[https://github.com/safe](https://github.com/safe](https://github.com/ntn2110q1/Simple-QA-model)">
@@ -34,7 +34,7 @@ Trong [Google Collab](https://colab.research.google.com/), chúng ta cần thư 
     <br>
 <p>
 
-Câu hỏi và câu trả lời được lưu vào folder `history` dưới định dạng `.JSON`
+Questions and answers are saved in the `history` folder in `.JSON` format.
 <p align="center">
     <br>
     <a href="[https://github.com/safe](https://github.com/safe](https://github.com/ntn2110q1/Simple-QA-model)">
